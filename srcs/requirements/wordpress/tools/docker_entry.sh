@@ -13,4 +13,3 @@ fi
 
 php-fpm7.4 -F
 
-!/bin/bash
